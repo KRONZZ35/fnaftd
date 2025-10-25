@@ -1,4 +1,5 @@
- "Freddy": {
+{
+    "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Uncommon",
@@ -1418,7 +1419,7 @@
     "SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://18356146630",
-        "Rarity": "Nightmare",
+        "Rarity": "Exclusive",
         "PlacePrice": 20000,
         "Max": 2,
         "hitboxOffset": {
@@ -1978,7 +1979,7 @@
     "Sentinel Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://18363569957",
-        "Rarity": "Nightmare",
+        "Rarity": "Exclusive",
         "PlacePrice": 3000,
         "Offset": 0.35,
         "Max": 1,
@@ -2026,7 +2027,7 @@
     "War Machine Foxy": {
         "Type": "Continuous Cone AOE",
         "Image": "rbxassetid://18363581536",
-        "Rarity": "Nightmare",
+        "Rarity": "Exclusive",
         "PlacePrice": 3500,
         "Offset": 0.45,
         "Max": 4,
@@ -2104,7 +2105,7 @@
     "Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 500,
         "Max": 3,
         "Passive": {"Name": "Lethal Potions", "Description": "Deals 75% damage in poison over 3 seconds"},
@@ -2529,7 +2530,7 @@
     "Valkyrie Chica": {
         "Type": "Continuous",
         "Image": "rbxassetid://18673330553",
-        "Rarity": "Nightmare",
+        "Rarity": "Exclusive",
         "PlacePrice": 10000,
         "Max": 4,
         "hitboxOffset": {
@@ -8740,7 +8741,7 @@
     "Dark Frostbear": {
         "Type": "Cone AOE Slow + Passive",
         "Image": "rbxassetid://79281029634533",
-        "Rarity": "Forgotten",
+        "Rarity": "Forsaken",
         "PlacePrice": 400,
         "Offset": 0.25,
         "Max": 3,
@@ -9857,7 +9858,7 @@
     "Coffee": {
         "Type": "Damage + Cooldown Boost",
         "Image": "rbxassetid://131733393221448",
-        "Rarity": "Forgotten",
+        "Rarity": "Forsaken",
         "PlacePrice": 400,
         "Offset": -0.3,
         "Max": 8,
@@ -10510,7 +10511,7 @@
     "Gaia Chica": {
         "Type": "Pierce Spread + Traps",
         "Image": "rbxassetid://137838669403437",
-        "Rarity": "Forgotten",
+        "Rarity": "Forsaken",
         "PlacePrice": 50000,
         "NoEnemyAttack": true,
         "Offset": 0,
@@ -11253,7 +11254,7 @@
     "Queen of Hearts Ballora": {
         "Type": "Pierce + Passive",
         "Image": "rbxassetid://120386866285195",
-        "Rarity": "Apex",
+        "Rarity": "Forsaken",
         "PlacePrice": 60000,
         "Offset": 0,
         "Max": 1,
@@ -11905,7 +11906,7 @@
     "Michael's Demise": {
         "Type": "Cone AOE + True Stun",
         "Image": "rbxassetid://113159149163905",
-        "Rarity": "Forgotten",
+        "Rarity": "Forsaken",
         "PlacePrice": 65000,
         "Offset": 0,
         "Max": 1,
@@ -13362,7 +13363,7 @@
     "Fossilized Puppet": {
         "Type": "Chain Splash + Passive",
         "Image": "rbxassetid://102097033004654",
-        "Rarity": "Forgotten",
+        "Rarity": "Forsaken",
         "PlacePrice": 45000,
         "Offset": 0,
         "Max": 2,
@@ -14141,7 +14142,7 @@
     "Sparky": {
         "Type": "Chain",
         "Image": "rbxassetid://106044817477654",
-        "Rarity": "Forgotten",
+        "Rarity": "Forsaken",
         "PlacePrice": 59214,
         "Offset": 0.4,
         "Max": 1,
@@ -14651,7 +14652,7 @@
     "Tropic Terror Duo": {
         "Type": "Cone AOE Slow + Passive",
         "Image": "rbxassetid://99621129596373",
-        "Rarity": "Forgotten",
+        "Rarity": "Forsaken",
         "PlacePrice": 33333,
         "Offset": 0.5,
         "Max": 1,
