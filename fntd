@@ -14228,7 +14228,7 @@
     "Jester Puppet": {
         "Type": "Splash Wither + Passive",
         "Image": "rbxassetid://112806747062575",
-        "Rarity": "Apex",
+        "Rarity": "Administrator",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 2,
@@ -14242,9 +14242,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 28,
-                "Damage": 18000,
-                "Cooldown": 1.2,
+                "Range": 280,
+                "Damage": 180000,
+                "Cooldown": 0.2,
                 "Wither": 1.3,
                 "ShinyWither": 1.3,
                 "WitherTime": 1.5
@@ -14252,8 +14252,8 @@
             {
                 "Price": 60000,
                 "Range": 32,
-                "Damage": 22000,
-                "Cooldown": 1.2,
+                "Damage": 220000,
+                "Cooldown": 0.2,
                 "Wither": 1.3,
                 "ShinyWither": 1.3,
                 "WitherTime": 1.5
@@ -14261,8 +14261,8 @@
             {
                 "Price": 70000,
                 "Range": 35,
-                "Damage": 26000,
-                "Cooldown": 1.2,
+                "Damage": 260000,
+                "Cooldown": 0.2,
                 "Wither": 1.3,
                 "ShinyWither": 1.3,
                 "WitherTime": 1.5
@@ -14270,8 +14270,8 @@
             {
                 "Price": 80000,
                 "Range": 38,
-                "Damage": 30000,
-                "Cooldown": 1.2,
+                "Damage": 600000,
+                "Cooldown": 0.2,
                 "Wither": 1.3,
                 "ShinyWither": 1.3,
                 "WitherTime": 1.5
