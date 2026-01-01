@@ -15392,7 +15392,7 @@
     "True Entity Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://111840860255727",
-        "Rarity": "Vonour",
+        "Rarity": "Administrator",
         "PlacePrice": 70000,
         "Offset": 0,
         "Max": 1,
